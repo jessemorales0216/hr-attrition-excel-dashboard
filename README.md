@@ -1,6 +1,6 @@
 # HR Attrition Dashboard (Excel)
 
-![Dashboard](HR Dashboard.png)
+![Dashboard](HR-Dashboard.png)
 
 ## Overview
 I built this Excel dashboard to analyze employee attrition across departments, job roles, and overtime.
